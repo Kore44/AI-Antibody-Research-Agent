@@ -1,0 +1,8 @@
+openai
+anthropic
+exa-py
+biopython
+pandas
+numpy
+sqlalchemy
+jupyter
